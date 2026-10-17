@@ -1,0 +1,42 @@
+[
+  {
+    "team": "Club Exemple 1",
+    "played": 0,
+    "won": 0,
+    "drawn": 0,
+    "lost": 0,
+    "points": 0
+  },
+  {
+    "team": "Club Exemple 2",
+    "played": 0,
+    "won": 0,
+    "drawn": 0,
+    "lost": 0,
+    "points": 0
+  },
+  {
+    "team": "Club Exemple 3",
+    "played": 0,
+    "won": 0,
+    "drawn": 0,
+    "lost": 0,
+    "points": 0
+  },
+  {
+    "team": "Club Exemple 4",
+    "played": 0,
+    "won": 0,
+    "drawn": 0,
+    "lost": 0,
+    "points": 0
+  },
+  {
+    "team": "Club Exemple 5",
+    "played": 0,
+    "won": 0,
+    "drawn": 0,
+    "lost": 0,
+    "points": 0
+  }
+]

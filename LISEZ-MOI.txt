@@ -1,0 +1,32 @@
+FOOTPULSE PRO — SITE DE DÉMONSTRATION
+
+Fichiers :
+- index.html : page d'accueil
+- article.html : page d'article
+- assets/style.css : styles responsives
+- assets/app.js : recherche, filtres, rendu des articles, résultats et classements
+- data/articles.json : contenu des articles de démonstration
+- data/scores.json : exemples de matchs/résultats
+- data/standings.json : exemple de classement
+- admin/index.html : outil éditorial local
+
+Tester :
+1. Décompressez le ZIP.
+2. Pour que fetch() puisse lire les fichiers JSON, ouvrez le dossier avec un serveur local (ex. VS Code + Live Server, ou python -m http.server dans le dossier).
+3. Sur un hébergement web statique, téléversez tous les fichiers en conservant les dossiers.
+
+Administration :
+- Ouvrez /admin/ sur le site.
+- Cette page est une maquette locale. Elle conserve les changements dans le localStorage du navigateur et permet d'exporter articles.json.
+- Elle n'est PAS protégée par un compte administrateur et ne publie PAS directement en ligne.
+- Pour une vraie administration accessible depuis n'importe quel appareil, ajoutez un CMS/backend, authentification et base de données.
+
+Résultats et classements :
+- Les fichiers JSON contiennent des exemples, pas des données officielles.
+- Pour les scores en direct, utilisez une API sportive autorisée et configurez les clés API côté serveur, jamais dans le navigateur.
+- Vérifiez toujours les résultats, les dates, les noms et les sources avant publication.
+
+Images :
+- Les photos sont chargées depuis Unsplash via Internet. Vérifiez les conditions d'utilisation et remplacez-les si nécessaire.
+
+Ce projet est un prototype fonctionnel de front-end, pas un service de nouvelles live déjà connecté.

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "a1",
+    "category": "Europe",
+    "tag": "EUROPE",
+    "title": "Les grandes soirées européennes : ce qu'il faut surveiller",
+    "summary": "Forme des équipes, duels clés et joueurs à suivre : préparez-vous pour les prochaines affiches.",
+    "date": "À mettre à jour",
+    "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?auto=format&fit=crop&w=1000&q=80",
+    "body": "Ajoutez ici votre analyse complète, en citant les sources utilisées et en vérifiant les informations avant publication."
+  },
+  {
+    "id": "a2",
+    "category": "Afrique",
+    "tag": "AFRIQUE",
+    "title": "Football africain : les talents à suivre cette saison",
+    "summary": "Zoom sur les jeunes joueurs qui pourraient faire parler d'eux sur la scène internationale.",
+    "date": "À mettre à jour",
+    "image": "https://images.unsplash.com/photo-1517466787929-bc90951d0974?auto=format&fit=crop&w=900&q=80",
+    "body": "Présentez le joueur, son club, ses statistiques vérifiées et les sources de ces informations."
+  },
+  {
+    "id": "a3",
+    "category": "Transferts",
+    "tag": "MERCATO",
+    "title": "Mercato : comment distinguer rumeurs et annonces officielles",
+    "summary": "Les bons réflexes pour suivre les mouvements de joueurs sans confondre spéculation et confirmation.",
+    "date": "À mettre à jour",
+    "image": "https://images.unsplash.com/photo-1574629810360-7efuby8?auto=format&fit=crop&w=900&q=80",
+    "body": "Expliquez le statut du transfert et attribuez clairement toute information à une source fiable."
+  },
+  {
+    "id": "a4",
+    "category": "Analyse",
+    "tag": "TACTIQUE",
+    "title": "Pressing haut ou bloc bas : deux philosophies du jeu",
+    "summary": "Comprendre les choix tactiques qui peuvent faire basculer une rencontre.",
+    "date": "À mettre à jour",
+    "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?auto=format&fit=crop&w=900&q=80",
+    "body": "Développez l'analyse tactique avec des exemples vérifiés et vos propres commentaires."
+  },
+  {
+    "id": "a5",
+    "category": "Afrique",
+    "tag": "CAMEROUN",
+    "title": "Le football camerounais mérite toute la lumière",
+    "summary": "Clubs, championnats et espoirs locaux : les histoires qui font vibrer les supporters.",
+    "date": "À mettre à jour",
+    "image": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?auto=format&fit=crop&w=900&q=80",
+    "body": "Ajoutez les informations locales vérifiées, les citations et les références nécessaires."
+  },
+  {
+    "id": "a6",
+    "category": "Europe",
+    "tag": "CULTURE FOOT",
+    "title": "Pourquoi les supporters rendent le football unique",
+    "summary": "Chants, couleurs et émotions : les tribunes sont aussi une partie du spectacle.",
+    "date": "À mettre à jour",
+    "image": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?auto=format&fit=crop&w=900&q=80",
+    "body": "Racontez une histoire originale autour des supporters, en vérifiant les noms et les événements."
+  }
+]

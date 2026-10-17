@@ -1,0 +1,23 @@
+[
+  {
+    "league": "LIGUE DES CHAMPIONS",
+    "home": "Équipe A",
+    "away": "Équipe B",
+    "score": "— : —",
+    "status": "Horaire / score à vérifier"
+  },
+  {
+    "league": "LIGUE 1",
+    "home": "Équipe C",
+    "away": "Équipe D",
+    "score": "— : —",
+    "status": "Horaire / score à vérifier"
+  },
+  {
+    "league": "FOOT AFRICAIN",
+    "home": "Équipe E",
+    "away": "Équipe F",
+    "score": "— : —",
+    "status": "Horaire / score à vérifier"
+  }
+]
